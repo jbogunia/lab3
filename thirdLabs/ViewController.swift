@@ -35,8 +35,9 @@ class ViewController: UIViewController, URLSessionDownloadDelegate {
     
     let urls = [
         URL(string: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg"),
-        URL(string: "https://upload.wikimedia.org/wikipedia/commons/3/36/Quentin_Matsys_-_A_Grotesque_old_woman.jpg"),
-        URL(string: "https://upload.wikimedia.org/wikipedia/commons/0/04/Dyck,_Anthony_van_-_Family_Portrait.jpg")
+        URL(string: "https://upload.wikimedia.org/wikipedia/commons/3/38/VanGogh_1887_Selbstbildnis.jpg"),
+        URL(string: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"),
+        URL(string: "https://upload.wikimedia.org/wikipedia/commons/3/38/Jan_Matejko%2C_Bitwa_pod_Grunwaldem.jpg"),
     ]
 
     
